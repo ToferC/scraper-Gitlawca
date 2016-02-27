@@ -2,3 +2,4 @@
 /lib
 /twisted
 *.Python
+*.graphml
